@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Progetto_Oleoni_Sampietro</name>
+    </assembly>
+    <members>
+        <member name="M:Progetto_Oleoni_Sampietro.Form1.btn_html_Click(System.Object,System.EventArgs)">
+            <summary>
+            Questa è la funzione che premendo il bottone (Salva html), salva appunto il documento html.
+            </summary>
+        </member>
+        <member name="M:Progetto_Oleoni_Sampietro.Form1.btn_css_Click(System.Object,System.EventArgs)">
+            <summary>
+            Questa è la funzione che premendo il bottone (Salva css), salva appunto il documento css.
+            </summary>
+        </member>
+        <member name="M:Progetto_Oleoni_Sampietro.Form1.Ub">
+            <summary>
+             Questa è la funzione che permette di simulare nel webbrowser lo scritto delle due richtextbox. Ed infine di collegare css con html.
+            </summary>
+        </member>
+        <member name="F:Progetto_Oleoni_Sampietro.Form1.components">
+            <summary>
+            Variabile di progettazione necessaria.
+            </summary>
+        </member>
+        <member name="M:Progetto_Oleoni_Sampietro.Form1.Dispose(System.Boolean)">
+            <summary>
+            Liberare le risorse in uso.
+            </summary>
+            <param name="disposing">ha valore true se le risorse gestite devono essere eliminate, false in caso contrario.</param>
+        </member>
+        <member name="M:Progetto_Oleoni_Sampietro.Form1.InitializeComponent">
+            <summary>
+            Metodo necessario per il supporto della finestra di progettazione. Non modificare
+            il contenuto del metodo con l'editor di codice.
+            </summary>
+        </member>
+        <member name="M:Progetto_Oleoni_Sampietro.Program.Main">
+            <summary>
+            Punto di ingresso principale dell'applicazione.
+            </summary>
+        </member>
+        <member name="T:Progetto_Oleoni_Sampietro.Properties.Resources">
+            <summary>
+              Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+            </summary>
+        </member>
+        <member name="P:Progetto_Oleoni_Sampietro.Properties.Resources.ResourceManager">
+            <summary>
+              Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+            </summary>
+        </member>
+        <member name="P:Progetto_Oleoni_Sampietro.Properties.Resources.Culture">
+            <summary>
+              Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte
+              le ricerche di risorse che utilizzano questa classe di risorse fortemente tipizzata.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -12,7 +12,7 @@ C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\
 C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.pdb
 C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\bin\Debug\Progetto_Oleoni_Sampietro.exe
 C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\bin\Debug\Progetto_Oleoni_Sampietro.pdb
-C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.csprojResolveAssemblyReference.cache
 C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.Form1.resources
 C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.Properties.Resources.resources
 C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.csproj.GenerateResource.Cache
+C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\bin\Debug\Progetto_Oleoni_Sampietro.XML

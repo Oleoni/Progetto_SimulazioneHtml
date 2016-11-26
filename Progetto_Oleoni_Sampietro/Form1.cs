@@ -13,16 +13,17 @@ namespace Progetto_Oleoni_Sampietro
 {
     public partial class Form1 : Form
     {
+        
         public Form1()
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// Questa è la funzione che premendo il bottone (Salva html), salva appunto il documento html.
+        /// </summary>
         private void btn_html_Click(object sender, EventArgs e)
         {
-            ///<summary>
-            /// Questa è la funzione che premendo il bottone (Salva Html), salva appunto il documento html.
-            ///</summary>
+            
             SaveFileDialog sv = new SaveFileDialog();
             if (sv.ShowDialog() == DialogResult.OK)
             {
@@ -33,12 +34,11 @@ namespace Progetto_Oleoni_Sampietro
                 }
             }
         }
-
+        /// <summary>
+        /// Questa è la funzione che premendo il bottone (Salva css), salva appunto il documento css.
+        /// </summary>
         private void btn_css_Click(object sender, EventArgs e)
         {
-            ///<summary>
-            /// Questa è la funzione che premendo il bottone (Salva css), salva appunto il documento css.
-            ///</summary>
             SaveFileDialog sv = new SaveFileDialog();
             if (sv.ShowDialog() == DialogResult.OK)
             {
@@ -59,11 +59,11 @@ namespace Progetto_Oleoni_Sampietro
         {
             Ub();
         }
+        ///<summary>
+        /// Questa è la funzione che permette di simulare nel webbrowser lo scritto delle due richtextbox. Ed infine di collegare css con html.
+        ///</summary>
         private void Ub()
         {
-            ///<summary>
-            /// Questa è la funzione che permette di simulare nel webbrowser lo scritto delle due richtextbox. Ed infine di collegare css con html.
-            ///</summary>
             webBrowser1.DocumentText = txt_html.Text.Replace("@lol", txt_css.Text);
         }
 
