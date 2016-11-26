@@ -1,0 +1,18 @@
+c:\users\matteo\documents\visual studio 2012\Projects\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\bin\Debug\Progetto_Oleoni_Sampietro.exe.config
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\bin\Debug\Progetto_Oleoni_Sampietro.exe
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\bin\Debug\Progetto_Oleoni_Sampietro.pdb
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.csprojResolveAssemblyReference.cache
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.Form1.resources
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.Properties.Resources.resources
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.csproj.GenerateResource.Cache
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.exe
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.pdb
+C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\bin\Debug\Progetto_Oleoni_Sampietro.exe.config
+C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.exe
+C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.pdb
+C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\bin\Debug\Progetto_Oleoni_Sampietro.exe
+C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\bin\Debug\Progetto_Oleoni_Sampietro.pdb
+C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.csprojResolveAssemblyReference.cache
+C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.Form1.resources
+C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.Properties.Resources.resources
+C:\Users\Matteo\Desktop\Progetto_Oleoni_Sampietro\Progetto_Oleoni_Sampietro\obj\Debug\Progetto_Oleoni_Sampietro.csproj.GenerateResource.Cache
